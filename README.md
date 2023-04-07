@@ -7,9 +7,8 @@ Front-End Developer
 I am a Front-End Developer who loves React
 
 * 🌍  I'm based in Tbilisi
-* 🖥️  See my portfolio at [MyPortfolio](http://example.com)
+* 🖥️  See my portfolio at [MyPortfolio]([http://example.com](https://ivane-vardoshvili.netlify.app))
 * ✉️  You can contact me at [i.vardoshvili22@gmail.com](mailto:i.vardoshvili22@gmail.com)
-* 🚀  I'm currently working on [someApp](http://example.com)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on Projects
 
